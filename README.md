@@ -29,3 +29,5 @@ SOLUTION: Tools --> Restore Layout.   Restores the four main windows.
 
 Following this video: https://www.youtube.com/watch?v=luyg3plGujg ('Introduction to webots: how to install and run your first simulation in 10 min | Webots Tutorial 1' by Kajal Gada).  Played around with the ball hitting the robot in different ways.  The Physics set up is so good, when I had a large ball it didn't roll around too much.  But I saw the tutorial video's ball rolling around quite a lot after falling from a high initial position, so I made my ball smaller like the one in the tutorial. Fun to make it hit the epuck robot or make the epuck robot hit the ball. The e-puck robot even kind of  tilts a bit, as the ball falls down from it! 
 
+Great fun tutorial!  Good to see we can code not only in C, C++, but also Python. 
+
