@@ -13,4 +13,16 @@ Anyway, will focus on simulation assignment first.  Wanted to design the robot b
 
 Anyway, as I resumed search for good platform, TinkerCAD kept becoming a better and better option for me, also it lacked the simulation aspect.  Soumic, when I called him for his suggestions, informed that he had used Blender and Webots. But Blender does have a learning curve that I don't want to spend time on at this point. Soumic suggested Fusion 360, but I'm only going for open-source services.  He agreed that there aren't that great options for a single catch-all platform. I asked whether Webots can handle .STL files, and when he said yes, I told him I will try the TinkerCAD + Webots combo. 
 
+-----
 So here I am, trying Webots. 
+
+Installed Webots, despite my OS complaining. 
+
+Now Webots complaining that my device's graphics setup is not up to par. 
+
+Nevertheless, played with some example worlds.  
+
+Opened a new world in E:/  
+
+PROBLEM:  Had crossed out all windows.  Now could not bring them in from View etc. 
+SOLUTION: Tools --> Restore Layout.   Restores the four main windows. 
